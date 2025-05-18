@@ -1,6 +1,6 @@
 # MonoMobility
 MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos
 
-[🔗 ProjectPage](https://your-project-page-url.com)
+[🔗 ProjectPage](https://monomobility.github.io/MonoMobility/)
 
 Code is coming soon...
